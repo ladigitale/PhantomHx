@@ -1,5 +1,6 @@
 PhantomHx
 =========
 
-Haxe externs for PhantomJS
+Haxe externs for PhantomJS.
+
 Old Stuff
